@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-
+# 끄적끄적
 
 def main():
     print("Hello, world!"
